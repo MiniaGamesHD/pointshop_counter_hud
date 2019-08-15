@@ -1,3 +1,7 @@
+if CLIENT then
+    include('config.lua')
+end
+
 surface.CreateFont( "PSHUD", {
 	font = "Verdana",
 	extended = true,

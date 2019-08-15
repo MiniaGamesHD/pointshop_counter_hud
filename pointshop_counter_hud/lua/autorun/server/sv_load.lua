@@ -8,8 +8,3 @@ if SERVER then
     print("|    ADDON SUCCESSFULY LOADED     |")
     print("|---------------------------------|")
 end
-
-if CLIENT then
-    include('cl_pshud.lua')
-    include('config.lua')
-end

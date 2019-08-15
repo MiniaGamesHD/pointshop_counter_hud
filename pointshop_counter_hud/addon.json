@@ -1,0 +1,6 @@
+{
+"title" : "Pointshop Counter HUD",
+"type" : "tool",
+"tags" : ["comic","fun"],
+"ignore" : ["*.psd", "*.vcproj", "*.svn*"]
+}

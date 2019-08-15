@@ -1,9 +1,9 @@
 if SERVER then
-	AddCSLuaFile()
+    AddCSLuaFile()
     AddCSLuaFile('cl_pshud.lua')
     AddCSLuaFile('config.lua')
     
-	print("|---------------------------------|")
+    print("|---------------------------------|")
     print("|---==[Pointshop Counter HUD]==---|")
     print("|    ADDON SUCCESSFULY LOADED     |")
     print("|---------------------------------|")
